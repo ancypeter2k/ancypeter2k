@@ -6,10 +6,11 @@
 
 [![Weapons & Tools](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,tailwind,html,css,redux,bootstrap,git,github,vscode,postman,figma,java,python,c,nginx,aws,docker,vercel,firebase,jwt,socketio,webrtc,ejs,razorpay,multer)](https://skillicons.dev)
 
-## 📫 Drop me a ping on 
+## 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/ancy-peter-37ab2522b) [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail&style=for-the-badge)](mailto:ancypeter2k@gmail.com) 
-![Tech Girl Animation](https://assets-v2.lottiefiles.com/a/f75ac2f2-116a-11ee-aa38-a35154041321/UTSEH078Aw.gif)
+
+##![Dev Power](https://i.imgflip.com/65efzo.gif)
 
 
 
