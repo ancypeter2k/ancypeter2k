@@ -3,7 +3,7 @@
     "I build solutions, not just software."  Curious by nature, I love turning complex problems into smart, efficient systems. I thrive in collaborative environments, especially open-source, and always aim to make meaningful impact through code.
 
 🛠️ Weapons & Tools
-        Everything I fight bugs with 🐞💥
+    Everything I fight bugs with 🐞💥
 [![Weapons & Tools](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,tailwind,html,css,redux,bootstrap,git,github,vscode,postman,figma,java,python,c,nginx,aws,docker,vercel,firebase,jwt,socketio,webrtc,ejs,razorpay,multer)](https://skillicons.dev)
 
 🤝 Let's Connect!
