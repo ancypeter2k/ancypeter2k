@@ -31,6 +31,7 @@
 I’m open to: • Full Stack Roles • Open-source Collaborations • Tech Talks & Knowledge Sharing  
 
 📫 Drop me a ping on 
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/ancy-peter-37ab2522b)
 
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail&style=for-the-badge)](mailto:ancypeter2k@gmail.com)
