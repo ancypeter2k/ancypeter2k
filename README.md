@@ -9,5 +9,5 @@
 ## 📫 Drop me a ping on 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/ancy-peter-37ab2522b) [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail&style=for-the-badge)](mailto:ancypeter2k@gmail.com) 
-                                                                                           ![Tech Girl at Laptop]([https://i.imgflip.com/ID.gif](https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112=))
+                                                                                           ![Woman Coding](https://iconscout.com/lottie-animations/female-web-developer)
 
