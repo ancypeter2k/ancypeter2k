@@ -15,3 +15,19 @@
 
 
 
+<table>
+  <tr>
+    <td width="30%">
+      <img src="https://assets-v2.lottiefiles.com/a/f75ac2f2-116a-11ee-aa38-a35154041321/UTSEH078Aw.gif" width="200"/>
+    </td>
+    <td>
+      <h3>👋 Hi, I'm Ancy Peter</h3>
+      <p>
+        A Full Stack Developer (MERN) passionate about crafting clean, scalable, and user-friendly applications.<br/>
+        Previously worked as an Analyst Programmer & SQL Developer at Ramco Systems.<br/>
+        🛠️ Curious by nature, I love turning complex problems into smart, efficient solutions.<br/>
+        ✨ I thrive in collaborative and open-source environments, aiming for meaningful impact through code.
+      </p>
+    </td>
+  </tr>
+</table>
