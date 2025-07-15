@@ -1,7 +1,8 @@
-<div align="left" style="display: flex; align-items: center; gap: 20px;">
-  <div style="width=200" >
-      ![Dev Power](https://i.imgflip.com/65efzo.gif)
+<div align="left" style="display: flex; align-items: flex-start; gap: 20px;">
+  <div>
+    <img src="https://i.imgflip.com/65efzo.gif" width="200" />
   </div>
+
   <div>
     <h3>👋 Hi, I'm Ancy Peter</h3>
     <p>
@@ -10,15 +11,20 @@
       💡 Curious by nature, I love turning complex problems into smart, efficient solutions.<br />
       🌐 I thrive in collaborative and open-source environments, and aim to make meaningful impact through code.
     </p>
-    <p>
-        ## **Weapons & Tools**
 
-[![Weapons & Tools](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,tailwind,html,css,redux,bootstrap,git,github,vscode,postman,figma,java,python,c,nginx,aws,docker,vercel,firebase,jwt,socketio,webrtc,ejs,razorpay,multer)](https://skillicons.dev)
+    <h2> Weapons & Tools</h2>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,tailwind,html,css,redux,bootstrap,git,github,vscode,postman,figma,java,python,c,nginx,aws,docker,vercel,firebase,jwt,socketio,webrtc,ejs,razorpay,multer" />
+    </a>
 
-## 
+    <br /><br />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/ancy-peter-37ab2522b) [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail&style=for-the-badge)](mailto:ancypeter2k@gmail.com) 
-    </p>
+    <a href="https://www.linkedin.com/in/ancy-peter-37ab2522b">
+      <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge" />
+    </a>
+
+    <a href="mailto:ancypeter2k@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail&style=for-the-badge" />
+    </a>
   </div>
 </div>
-
