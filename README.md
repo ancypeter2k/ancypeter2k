@@ -1,43 +1,8 @@
-Hi 👋! I'm Ancy Peter, a passionate Full Stack Developer with a solid background in both frontend and backend technologies. Currently, I work as an Analyst Programmer and SQL Developer at Ramco Systems. My journey in tech is fueled by curiosity, continuous learning, and solving real-world problems through code.
-
-🚀 Mission
-To build user-centric applications that have a meaningful impact. I aim to innovate while constantly evolving as a developer. I love collaborating on open-source initiatives and tackling new challenges that push my boundaries.
-
-💼 Professional Experience
-
-Analyst Programmer / SQL Developer – Ramco Systems (1+ year)
-
-MERN Stack Development & System Design
-
-Cloud Deployment & MongoDB Aggregation
+👋 Hi, I'm Ancy Peter
+    A Full Stack Developer(MERN) passionate about crafting clean, scalable, and user-friendly applications. Previously worked as an Analyst Programmer & SQL Developer at Ramco Systems, blending robust backend logic with seamless frontend design.
+    "I build solutions, not just software."  Curious by nature, I love turning complex problems into smart, efficient systems. I thrive in collaborative environments, especially open-source, and always aim to make meaningful impact through code.
 
 💻 Tech Stack
-Languages: JavaScript, TypeScript, Java, C
-Frontend: React.js, Next.js, HTML5, CSS3, Tailwind CSS, Bootstrap, Redux Toolkit, EJS
-Backend: Node.js, Express.js, REST APIs, MVC Architecture, Repository Pattern
-Database: MongoDB
-Deployment: Nginx, Load Balancing, AWS EC2, Vercel
-Integrations: JWT, Socket.IO, Firebase, WebRTC, Razorpay, Multer
-Tools: Git, GitHub, VS Code, Postman, Figma
-
-🧠 Soft Skills
-Self-motivated | Fast Learner | Problem Solver | Organized | Adaptive | Collaborative
-
-🌱 Currently Learning
-
-System Design Patterns
-
-Cloud services (AWS & Docker)
-
-Advanced MongoDB Aggregations
-
-📬 Let’s Connect!
-I'm open to full-stack development roles, collaboration on tech projects, and new learning opportunities. Let’s build something impactful together!
-
-📫 Reach me at:
-LinkedIn • Email
-
-⚡ Fun fact: I drink code like coffee ☕ — one line at a time!
 
 ### 🧠 Languages
 [![Languages](https://skillicons.dev/icons?i=js,ts,java,c)](https://skillicons.dev)
@@ -56,4 +21,19 @@ LinkedIn • Email
 
 ### 🛠️ Tools
 [![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman,figma)](https://skillicons.dev)
+
+🌱 Currently Exploring
+### 📦 System Design | ☁️ Cloud | 🧩 Data Aggregation  
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,mongodb,linux)](https://skillicons.dev)
+
+
+🤝 Let's Connect!
+I’m open to: • Full Stack Roles • Open-source Collaborations • Tech Talks & Knowledge Sharing  
+
+📫 Drop me a ping on 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/ancy-peter-37ab2522b)
+
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail&style=for-the-badge)](mailto:ancypeter2k@gmail.com)
+
+
 
