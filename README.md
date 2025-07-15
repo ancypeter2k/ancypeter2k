@@ -38,3 +38,5 @@ I'm open to full-stack development roles, collaboration on tech projects, and ne
 LinkedIn • Email
 
 ⚡ Fun fact: I drink code like coffee ☕ — one line at a time!
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
