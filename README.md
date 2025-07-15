@@ -39,4 +39,4 @@ LinkedIn • Email
 
 ⚡ Fun fact: I drink code like coffee ☕ — one line at a time!
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,avaScript, TypeScript, Java, C Frontend: React.js, Next.js, HTML5, CSS3, Tailwind CSS, Bootstrap, Redux Toolkit, EJS Backend: Node.js, Express.js, REST APIs, MVC Architecture, Repository Pattern Database: MongoDB Deployment: Nginx, Load Balancing, AWS EC2, Vercel Integrations: JWT, Socket.IO, Firebase, WebRTC, Razorpay, Multer Tools: Git, GitHub, VS Code, Postman, Figma)](https://skillicons.dev)
